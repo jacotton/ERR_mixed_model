@@ -31,7 +31,7 @@ The script called Crellen_CID.trimmed_script.R should recreate this analysis exa
 The individual ERR results were recalculated (identically up to Markov error)  then also used, and marginal distributions calculated for some different subsets of individuals in:
 
 Berger D, Crellen T, Lamberton PH, et al.
-Extensive population genomics diversity with limited selection of Schistosoma mansoni despite repeated mass drug administraiotn. 
+Extensive population genomic diversity with limited selection of Schistosoma mansoni despite repeated mass drug administraiotn. 
 Nature Communications (in press, 2021).
 
 The script ERR.R will recreate exactly this analysis.
